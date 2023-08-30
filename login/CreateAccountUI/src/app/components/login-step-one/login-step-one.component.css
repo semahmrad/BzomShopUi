@@ -1,8 +1,8 @@
-
-.step-one-container{}
-.step-one-sub-container{
-
+.error-container{
+    height: 3vh;
+    color: rgb(247 5 5);
+    font-size: 2vh;
 }
-.card text-black{
-    padding-top: 1vh;
+.button-next{
+    width: 100%;
 }
